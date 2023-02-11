@@ -1,2 +1,2 @@
 # golden_section_search
-A tool that calculates the golden section search algorithm to find the minima.
+A tool that simulates the golden section search algorithm to find the minima.
